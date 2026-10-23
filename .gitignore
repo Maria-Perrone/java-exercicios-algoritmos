@@ -1,0 +1,45 @@
+# Compilação e Binários Java
+*.class
+*.jar
+*.war
+*.ear
+*.nar
+*.zip
+*.tar.gz
+*.rar
+
+# Diretórios de Build
+bin/
+build/
+out/
+target/
+
+# Logs e Arquivos Temporários
+*.log
+*.tmp
+*.bak
+*.swp
+*~
+
+# IDEs e Editores
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+.vscode/
+.settings/
+.classpath
+.project
+
+# Sistema Operacional
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Variáveis de Ambiente e Segredos
+.env
+.env.*
+*.secret
+*.pem
+*.key
